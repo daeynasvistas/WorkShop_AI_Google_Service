@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WorkShop_IPG</string>
+    <string name="mykey">AIzaSyBdJT3uN7Rw5HNINHunhAR7fFe3pz2Xj2A</string>
+    <string name="mURLimage">https://vision.googleapis.com/v1/images:annotate?key=</string>
+
+
+    <string name="title_activity_vision">VisionActivity</string>
+    <string name="title_activity_voice">VoiceActivity</string>
+</resources>
