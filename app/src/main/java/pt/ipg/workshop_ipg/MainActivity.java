@@ -20,8 +20,14 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
         //Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
-
-
-
     }
+
+    public void openNaturalActivity(View view)
+    {
+        Intent intent = new Intent(MainActivity.this, NaturalActivity.class);
+        startActivity(intent);
+
+        //Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
+    }
+
 }

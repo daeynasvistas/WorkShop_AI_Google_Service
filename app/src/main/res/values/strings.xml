@@ -3,7 +3,9 @@
     <string name="mykey">AIzaSyBdJT3uN7Rw5HNINHunhAR7fFe3pz2Xj2A</string>
     <string name="mURLimage">https://vision.googleapis.com/v1/images:annotate?key=</string>
 
-
     <string name="title_activity_vision">VisionActivity</string>
     <string name="title_activity_voice">VoiceActivity</string>
+
+    <string name="spider_man3">O Mestrado em Computação Móvel do Instituto Politécnico da Guarda é um dos primeiros cursos em Portugal a centrar-se especificamente na temática da mobilidade e ubiquidade dos sistemas informáticos. O curso vai ao encontro do crescente interesse pela área dos sistemas móveis e sobretudo da grande necessidade de recursos humanos qualificados capazes de responder às necessidades de desenvolvimento de sistemas e serviços inovadores na área das redes de comunicação móvel e da computação móvel e ubíqua.</string>
+
 </resources>

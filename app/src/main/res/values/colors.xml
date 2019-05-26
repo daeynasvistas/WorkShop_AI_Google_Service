@@ -31,4 +31,7 @@
     <color name="red">#ef1010</color>
     <color name="yellow">#f4d301</color>
 
+
+    <color name="entity_text_color">#4d4c4c</color>
+
 </resources>

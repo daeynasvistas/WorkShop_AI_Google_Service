@@ -61,8 +61,8 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="50dp"
             android:background="@color/colorPrimary"
-            android:onClick="openImageActivity"
-            android:text="  Speech to Text  "
+            android:onClick="openNaturalActivity"
+            android:text="  Natural Language  "
             android:textColor="@color/bg_color"
             android:textSize="12dp" />
     </LinearLayout>
