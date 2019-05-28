@@ -69,10 +69,10 @@ public class VisionActivity extends AppCompatActivity {
         }
     }
 
+    public static final String API_KEY = "AIzaSyBdJT3uN7Rw5HNINHunhAR7fFe3pz2Xj2A";
     private void recognizeObjects(String base64Data) {
 
-        String requestURL = getResources().getString(R.string.mURLimage) +
-                getResources().getString(R.string.mykey);
+        String requestURL = getResources().getString(R.string.mURLimage) + API_KEY;
 
         try {
 
