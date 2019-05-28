@@ -4,6 +4,7 @@
 ## Necessário para seguir este workshop
  1. Android Studio 
  2. SmartPhone android (preferencialmente)
+ 3. Siga os passos seguintes para estar já preparado
 
 ## Siga estes passos para estar preparado para o Workshop
 
