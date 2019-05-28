@@ -16,18 +16,18 @@ public class MainActivity extends AppCompatActivity {
 
     public void openImageActivity(View view)
     {
-        Intent intent = new Intent(MainActivity.this, VisionActivity.class);
-        startActivity(intent);
+      //  Intent intent = new Intent(MainActivity.this, VisionActivity.class);
+      //  startActivity(intent);
 
-        //Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
     }
 
     public void openNaturalActivity(View view)
     {
-        Intent intent = new Intent(MainActivity.this, NaturalActivity.class);
-        startActivity(intent);
+      //  Intent intent = new Intent(MainActivity.this, NaturalActivity.class);
+      //  startActivity(intent);
 
-        //Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
+        Toast.makeText(MainActivity.this, "Great success! tens isso OK.", Toast.LENGTH_LONG).show();
     }
 
 }
