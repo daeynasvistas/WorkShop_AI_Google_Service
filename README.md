@@ -21,7 +21,7 @@
 ---
 
 # WIKI - Step by Step
-[Home](https://www.google.com "Google's Homepage")
+[Home](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki)
 
 [(P1) Interface Utilizador](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P1)-Interface--Utilizador)
 
