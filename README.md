@@ -23,15 +23,15 @@
 # WIKI - Step by Step
 [Home](https://www.google.com "Google's Homepage")
 
-[(P1) Interface Utilizador](https://www.google.com "Google's Homepage")
+[(P1) Interface Utilizador](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P1)-Interface--Utilizador)
 
-[(P2) Acesso ao Serviço Cognitivo Google Cloud API](https://www.google.com "Google's Homepage")
+[(P2) Acesso ao Serviço Cognitivo Google Cloud API](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P2)-Acesso-ao-Servi%C3%A7o-Cognitivo-Google-Cloud-API)
 
-[(P3) VisionActivity (LABEL)](https://www.google.com "Google's Homepage")
+[(P3) VisionActivity (LABEL)](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P3)-VisionActivity-(LABEL))
 
-[P4) VisionActivity (OCR)](https://www.google.com "Google's Homepage")
+[P4) VisionActivity (OCR)](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P4)-VisionActivity-(OCR))
 
-[(P5) VisionActivity (TRANSLATION)](https://www.google.com "Google's Homepage")
+[(P5) VisionActivity (TRANSLATION)](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P5)-VisionActivity-(TRANSLATION))
 
-[(P6) NaturalActivity (NLP))](https://www.google.com "Google's Homepage")
+[(P6) NaturalActivity (NLP))](https://github.com/daeynasvistas/WorkShop_AI_Google_Service/wiki/(P6)-NaturalActivity-(NLP))
 
