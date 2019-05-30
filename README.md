@@ -18,3 +18,14 @@
 # (3) Testar a aplicação (Play e clique num dos Button)
 ![4](https://user-images.githubusercontent.com/2634610/58481572-90e9fb00-8154-11e9-9f76-6576ca7da958.png)
 
+---
+
+# WIKI - Step by Step
+Home
+(P1) Interface Utilizador
+(P2) Acesso ao Serviço Cognitivo Google Cloud API
+(P3) VisionActivity (LABEL)
+(P4) VisionActivity (OCR)
+(P5) VisionActivity (TRANSLATION)
+(P6) NaturalActivity (NLP)
+
